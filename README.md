@@ -21,3 +21,6 @@ Paths of the arithmetic Brownian motion (ABM) and geometric Brownian motion (GBM
 * Pricing derivatives: ABM and GBM models are used to price a variety of derivative securities, such as options, futures, and swaps.
 * Risk management: ABM and GBM models can be used to assess and manage the risk of financial portfolios.
 * Research: ABM and GBM models are used in academic research to study a variety of financial phenomena, such as asset pricing, market efficiency, and the behavior of investors.
+
+## Image:
+![Alt text](https://github.com/yshinde005/BrownianMotion_model/blob/master/model.png "Image")
